@@ -1,0 +1,9 @@
+p{
+    text-align: center;
+    background-color: rgba(0, 128, 0, 0.1);
+    color: white;
+}
+div{
+    background-color: green;
+    color: black;
+}
